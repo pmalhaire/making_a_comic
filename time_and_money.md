@@ -84,7 +84,7 @@ Is there a mathematical scope for those who feel sad or useless.
 
 ### Panel 17:
 
-`Sally` I just got the name : « La bouche joyeuse ». The happy mouth in french.  
+`Sally` I just got the name : « La bouche joyeuse ». The happy mouth in french.  
 `Lenny(laughing)` — Sorry, but … it sound’s like porn.
 
 ### Panel 18:
@@ -115,7 +115,7 @@ Is there a mathematical scope for those who feel sad or useless.
 
 ### Panel 24:
 
-*Lenny walking in the street.(same panel as before)*
+*Lenny walking in the street.(same as panel 1)*
 
 ### Panel 25:
 
@@ -123,11 +123,11 @@ Lenny thinking : Still broke, and doing nothing but counting my money.
 
 ### Panel 26:
 
-*Lenny calling his best friend Molly. The phone rings…*
+*Lenny calling Sally. The phone rings…*
 
 ### Panel 27:
 
-`Molly` Hi Lenny, how have you been ?  
+`Sally` Hi Lenny, how have you been ?  
 `Lenny` Not that good, I’d say.
 
 ### Panel 28:
@@ -136,66 +136,51 @@ Lenny thinking : Still broke, and doing nothing but counting my money.
 
 ### Panel 29:
 
-`Molly` What is the matter ?  
-`Lenny` I am broke. I am struggling not to spend the few money I got left.  
-`Molly` That’s not easy, you call me after so long, because you feel bad ?
+`Sally` Did you see your Friends lately ?  
+`Lenny` Not really I was busy.
 
 ### Panel 30:
 
-*silence*
+`Sally(speaking fast)` Are you busy now ?  
+`Lenny(desperate)` I can’t afford being busy.
 
 ### Panel 31:
 
-`Molly` Did you see your Friends lately ?  
-`Lenny` Not really I was busy.
+`Sally(cynical)` So you can see your friends.  
+`Lenny(felling attacked)` I am calling you right now.  
+`Sally(indifferent)` Yes, because you are broke, at least it gave me the opportunity to hear about you.
 
 ### Panel 32:
 
-`Molly(speaking fast)` Are you busy now ?  
-`Lenny(desperate)` I can’t afford being busy.
+*silence*
 
 ### Panel 33:
 
-`Molly(synical)` So you can see your friends.  
-`Lenny(felling attacked)` I am calling you right now.  
-`Molly(indifferent)` Yes, because you are broke, at least it gave me the opportunity to hear about you.
+`Lenny(faking a good mood)` Was good to come across you the other day, it's nice what you are doing.  
+`Sally(happy)` Thank you. What would you like to do, if you were to change job ?
 
 ### Panel 34:
 
-*silence*
+`Lenny(felling lost)` That’s a good question… I don’t know.
 
 ### Panel 35:
 
-`Molly(upset)` — I hope I am not the only one…  
-`Lenny(faking a good mood)` - I saw Sally the other day.
+`Sally(playful)` You told me you're not busy so you have time ?  
+`Lenny(upset)` Yes since I can’t afford anything.
 
 ### Panel 36:
 
-`Molly(happy)` How is she ?  
-`Lenny` Kind of good, she just quitted her job. She want’s to open a French restaurant. She already found the name : «La bouche joyeuse».  
-`Molly(happy)` Nice to hear. I wish I had her courage. What would you like to do, if you were to change job ?
+`Sally(more playful)` Knowing what to do is a question that takes time.  
+`Lenny(more upset)` Well I have now two problems, no money, and I don’t know what to do.
 
 ### Panel 37:
 
-`Lenny(felling lost)` That’s a good question… I don’t know.
+`Sally(proud of her)` No money gives you time. Knowing what you do needs time.  
+`Lenny(angry)` I could have found it myself, but you’re wrong because time is money.
 
 ### Panel 38:
 
-`Molly(playful)` You told me you had time.  
-`Lenny(upset)` Yes since I can’t afford anything.
-
-### Panel 39:
-
-`Molly(more playful)` What to do is a question that takes time.  
-`Lenny(more upset)` Well I have now two problems, no money, and I don’t know what to do.
-
-### Panel 40:
-
-`Molly(proud of her)` No money gives you time. Knowing what you do needs time.  
-`Lenny(angry)` I could have found it myself, but you’re wrong because time is money.
-
-### Panel 41:
-
-`Molly(laughing)` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
+`Sally(laughing)` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
 `Lenny(feeling a bit better)` You’re right, I’d be happy to meet you.
+
 
