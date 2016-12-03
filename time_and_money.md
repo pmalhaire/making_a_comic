@@ -21,7 +21,7 @@ Is there a mathematical scope for those who feel sad or useless.
 
 ### Panel 3:
 
-*Lenny meets his friend Sally in the street.*
+*Lenny comes across his friend Sally in the street.*
 
 ### Panel 4:
 
@@ -35,150 +35,141 @@ Is there a mathematical scope for those who feel sad or useless.
 
 ### Panel 6:
 
-*Sally looks at him.*
-
-### Panel 7:
-
 `Sally` You seem worried what happened?    
 `Lenny` Nothing…
 
-### Panel 8:
+### Panel 7:
 
 *Sally moves her bag from one shoulder to the other.*
 
-### Panel 9:
+### Panel 8:
 
 `Sally` Come on, we’re not strangers.
 
-### Panel 10:
+### Panel 9:
 
 *Lenny moves his eyes from the floor and looks at Sally with fear in his eyes.*
 
-### Panel 11:
+### Panel 10:
 
 `Lenny` … I am just broke and I don’t know what to do.
 
-### Panel 12:
+### Panel 11:
 
 *Sally joins her arms thinking of what to say, she kind of moved by him.*
 
-### Panel 13:
+### Panel 12:
 
 *silence* 
 
-### Panel 14:
+### Panel 13:
 
 `Sally(speaks fast)` — I just quitted my job, I’am broke too.  
 `Lenny(astonished)` — How come, you where making big money.  
 `Sally(kind of proud)` — I burned most of it, I was bored like hell working.
 
-### Panel 15:
+### Panel 14:
 
 `Sally(kind of proud)` — I am planing to open a restaurant.  
 `Lenny` And how do you manage with money ?  
 `Sally` I just divided what I got left in 12. I got one year to try.
 
-### Panel 16:
+### Panel 15:
 
 `Lenny(Surprised)` — That’s nice ! Tell me.
 
-### Panel 17:
+### Panel 16:
 
 `Sally` I just got the name : « La bouche joyeuse ». The happy mouth in french.  
 `Lenny(laughing)` — Sorry, but … it sound’s like porn.
 
-### Panel 18:
+### Panel 17:
 
 `Sally(disgusted)` — … Really ?!  
 `Lenny(shameful)` — Uh … The translation does.
 
-### Panel 19:
+### Panel 18:
 
 `Sally(winks)` — Anyway. It make sense for a French restaurant.
 
-### Panel 20:
+### Panel 19:
 
 *Lenny steps back feeling the urge to go.*
 
-### Panel 21:
+### Panel 20:
 
 `Lenny(shy)` Nice seeing you, good luck with your nice plan.  
 `Sally(sad)` Take care… call me someday.
 
-### Panel 22:
+### Panel 21:
 
 `Lenny thinking` : Divide the money, that’s the thing. I’ll make it!
 
-### Panel 23:
+### Panel 22:
 
 *One week later.*
 
-### Panel 24:
+### Panel 23:
 
 *Lenny walking in the street.(same as panel 1)*
 
-### Panel 25:
+### Panel 24:
 
 Lenny thinking : Still broke, and doing nothing but counting my money.
 
-### Panel 26:
+### Panel 25:
 
 *Lenny calling Sally. The phone rings…*
 
-### Panel 27:
+### Panel 26:
 
 `Sally` Hi Lenny, how have you been ?  
 `Lenny` Not that good, I’d say.
 
-### Panel 28:
+### Panel 27:
 
 *silence*
 
-### Panel 29:
+### Panel 28:
 
 `Sally` Did you see your Friends lately ?  
 `Lenny` Not really I was busy.
 
-### Panel 30:
+### Panel 29:
 
-`Sally(speaking fast)` Are you busy now ?  
+`Sally(cynical)` Are you busy now ?  
 `Lenny(desperate)` I can’t afford being busy.
+`Sally` So you have time to see your friends.  
 
-### Panel 31:
-
-`Sally(cynical)` So you can see your friends.  
-`Lenny(felling attacked)` I am calling you right now.  
-`Sally(indifferent)` Yes, because you are broke, at least it gave me the opportunity to hear about you.
-
-### Panel 32:
+### Panel 30:
 
 *silence*
 
-### Panel 33:
+### Panel 31:
 
 `Lenny(faking a good mood)` Was good to come across you the other day, it's nice what you are doing.  
 `Sally(happy)` Thank you. What would you like to do, if you were to change job ?
 
-### Panel 34:
+### Panel 32:
 
 `Lenny(felling lost)` That’s a good question… I don’t know.
 
-### Panel 35:
+### Panel 33:
 
 `Sally(playful)` You told me you're not busy so you have time ?  
 `Lenny(upset)` Yes since I can’t afford anything.
 
-### Panel 36:
+### Panel 34:
 
 `Sally(more playful)` Knowing what to do is a question that takes time.  
 `Lenny(more upset)` Well I have now two problems, no money, and I don’t know what to do.
 
-### Panel 37:
+### Panel 35:
 
 `Sally(proud of her)` No money gives you time. Knowing what you do needs time.  
 `Lenny(angry)` I could have found it myself, but you’re wrong because time is money.
 
-### Panel 38:
+### Panel 36:
 
 `Sally(laughing)` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
 `Lenny(feeling a bit better)` You’re right, I’d be happy to meet you.
