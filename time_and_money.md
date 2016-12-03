@@ -159,9 +159,9 @@ Lenny thinking : Still broke, and doing nothing but counting my money.
 
 ###Panel 34:
 
-`Molly(unconcerned)` So you can see your friends.  
+`Molly(synical)` So you can see your friends.  
 `Lenny(felling attacked)` I am calling you right now.  
-`Molly(not caring)` Yes, because you are broke, at least it gave me the opportunity to hear about you.
+`Molly(indifferent)` Yes, because you are broke, at least it gave me the opportunity to hear about you.
 
 ###Panel 35:
 
