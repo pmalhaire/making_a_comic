@@ -3,12 +3,21 @@
 ## Idea : 
 
 The correct logical answer to a problem does not solve it all. Using logic always implies to reduce a problem scope. 
-
 Where many of our today problems are more about a feeling small, or useless in the big world machine. 
 Is there a mathematical scope for those who feel sad or useless. 
 
-Lenny is broke and does not know hows to handle it. He cames across his old friend Sally which just changed her life style to open a restaurant. He tries to solve his money problems with better accounting but it's a failure. 
-realizeLost and depressed he calls Sally. She makes him realize that money is the his problem, he is just lost because he does not know what to do in his life.
+## Synopsis :
+
+Lenny is broke and does not know hows to handle it. 
+He cames across his old friend Sally. 
+Sally tells Lenny that she quitted her job to open a restaurant and how she manages money with no income. 
+Inspired by Sally Lenny tries to solve his money problems with better accounting.  
+
+One week later Lenny realize that even with accounting his money problem is not solved. 
+Lost and depressed Lenny calls Sally. 
+She makes him realize that money his problem. 
+Lenny is just lost because he does not know what to do in his life.
+They agree to meet next time.
 
 ## Story :
 
