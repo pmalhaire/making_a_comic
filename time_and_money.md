@@ -8,9 +8,10 @@ Is there a mathematical scope for those who feel sad or useless.
 
 ## Synopsis :
 
-Lenny is broke and does not know hows to handle it. 
+Lenny is broke and does not know how to handle it. 
 He cames across his old friend Sally. 
-Sally tells Lenny that she quitted her job to open a restaurant and how she manages money with no income. 
+Sally tells Lenny that she quitted her job to open a restaurant.
+Lenny asks Sally how she manages money with no income. 
 Inspired by Sally Lenny tries to solve his money problems with better accounting.  
 
 One week later Lenny realize that even with accounting his money problem is not solved. 
