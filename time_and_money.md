@@ -25,16 +25,16 @@ They agree to meet soon.
 
 ### Panel 1:
 
-*Lenny walking in the street.*
+*`Lenny` walking in the street.*
 
 ### Panel 2:
 
-*Lenny stops next to a donuts shop.*  
-`Lenny[thinking]` — My wallet fells like that.
+*`Lenny` stops next to a donuts shop.*  
+`Lenny thinking` — My wallet fells like that.
 
 ### Panel 3:
 
-*Lenny comes across his friend Sally in the street.*
+*`Lenny` comes across his friend Sally in the street.*
 
 `Sally` Hey Lenny, how have you been.  
 `Lenny` Well… not bad, what about you?  
@@ -42,24 +42,24 @@ They agree to meet soon.
 
 ### Panel 4:
 
-*Lenny smiles looking down.*
+*`Lenny` smiles looking down.*
 
 `Sally` You seem worried what happened?    
 `Lenny` Nothing…
 
 ### Panel 5:
 
-*Sally moves her bag from one shoulder to the other.*
+*`Sally` moves her bag from one shoulder to the other.*
 
 `Sally` Come on, we’re not strangers.
 
-*Lenny moves his eyes from the floor and looks at Sally with fear in his eyes.*
+*`Lenny` moves his eyes from the floor and looks at Sally with fear in his eyes.*
 
 `Lenny` … I am just broke and I don’t know what to do.
 
 ### Panel 6:
 
-*Sally joins her arms thinking of what to say, she is kind of moved by him.*
+*`Sally` joins her arms thinking of what to say, she is kind of moved by him.*
 
 ### Panel 7:
 
@@ -93,7 +93,7 @@ They agree to meet soon.
 
 ### Panel 13:
 
-*Lenny steps back feeling the urge to go.*
+*`Lenny` steps back feeling the urge to go.*
 
 `Lenny(shy)` Nice seeing you, good luck with your nice plan.  
 `Sally(sad)` Take care… call me someday.
@@ -109,15 +109,15 @@ They agree to meet soon.
 
 *One week later.*
 
-*Lenny walking in the street.(same as panel 1)*
+*`Lenny` walking in the street.(same as panel 1)*
 
 ### Panel 16:
 
-Lenny thinking : Still broke, and doing nothing but counting my money.
+`Lenny thinking` : Still broke, and doing nothing but counting my money.
 
 ### Panel 17:
 
-*Lenny calling Sally. The phone rings…*
+*`Lenny` calling Sally. The phone rings…*
 
 ### Panel 18:
 
