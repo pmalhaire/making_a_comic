@@ -30,7 +30,7 @@ They agree to meet soon.
 ### Panel 2:
 
 *`Lenny` stops next to a donuts shop.*  
-`Lenny thinking` — My wallet fells like that.
+`Lenny thinking` My wallet fells like that.
 
 ### Panel 3:
 
@@ -63,10 +63,10 @@ They agree to meet soon.
 
 ### Panel 7:
 
-`Sally(kind of proud)` — I just quitted my job, I’am broke too.  
-`Lenny(astonished)` — How come, you where making big money.  
-`Sally` — I burned most of it, I was bored like hell working.
-`Sally` — I am planing to open a restaurant.  
+`Sally(kind of proud)` I just quitted my job, I’am broke too.  
+`Lenny(astonished)` How come, you where making big money.  
+`Sally` I burned most of it, I was bored like hell working.
+`Sally` I am planing to open a restaurant.  
 
 ### Panel 8:
 
@@ -75,21 +75,21 @@ They agree to meet soon.
 
 ### Panel 9:
 
-`Lenny(surprised)` — That’s nice ! Tell me.
+`Lenny(surprised)` That’s nice ! Tell me.
 
 ### Panel 10:
 
 `Sally` I just got the name : « La bouche joyeuse ». The happy mouth in french.  
-`Lenny(laughing)` — Sorry, but … it sound’s like porn.
+`Lenny(laughing)` Sorry, but … it sound’s like porn.
 
 ### Panel 11:
 
-`Sally(disgusted)` — … Really ?!  
-`Lenny(shameful)` — Uh … The translation does.
+`Sally(disgusted)` … Really ?!  
+`Lenny(shameful)` Uh … The translation does.
 
 ### Panel 12:
 
-`Sally(winks)` — Anyway. It make sense for a French restaurant.
+`Sally(winks)` Anyway. It make sense for a French restaurant.
 
 ### Panel 13:
 
@@ -100,7 +100,7 @@ They agree to meet soon.
 
 ### Panel 14:
 
-`Lenny thinking` : Divide the money, that’s the thing. I’ll make it!
+`Lenny thinking` Divide the money, that’s the thing. I’ll make it!
 
 *Second part*
 -----
@@ -113,7 +113,7 @@ They agree to meet soon.
 
 ### Panel 16:
 
-`Lenny thinking` : Still broke, and doing nothing but counting my money.
+`Lenny thinking` Still broke, and doing nothing but counting my money.
 
 ### Panel 17:
 
