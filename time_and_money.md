@@ -52,7 +52,7 @@ They agree to meet soon.
 
 ### Panel 6:
  
-`Lenny(laughing)` Sorry, but … it sound’s like porn.
+`Lenny(laughing)` Sorry, but … it sound’s like porn.  
 `Sally(disgusted)` … Really ?!  
 `Lenny(shameful)` Uh … The translation does.  
 `Sally` Anyway. It make sense for a French restaurant.
