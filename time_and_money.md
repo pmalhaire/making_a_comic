@@ -72,8 +72,8 @@ They agree to meet soon.
 
 ### Panel 9:
 
-*One week later.*
-*`Lenny` walking in the street.(same as panel 1)*
+*One week later.*  
+*`Lenny` walking in the street.(same as panel 1)*  
 `Lenny thinking` Still broke, and doing nothing but counting my money.
 
 ### Panel 10:
