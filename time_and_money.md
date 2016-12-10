@@ -46,7 +46,7 @@ They agree to meet soon.
 
 `Sally(kind of proud)` I just quitted my job, I’am broke too.  
 `Lenny(astonished)` How come?  
-`Sally` I divided what I got left in 12. I have one year to open a restaurant. 
+`Sally` I divided what I got left in 12. I have one year to open a restaurant.  
 `Lenny` Wow, it's an amazing plan.  
 `Sally` Well I just got the name : « La bouche joyeuse ». The happy mouth in french. 
 
