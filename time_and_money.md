@@ -29,7 +29,7 @@ They agree to meet soon.
 
 ### Panel 2:
 
-*`Lenny` stops next to a donuts shop.*  
+*`Lenny` stops next to a donuts shop.*  
 `Lenny thinking` My wallet fells like that.
 
 ### Panel 3:
@@ -65,7 +65,7 @@ They agree to meet soon.
 
 `Sally(kind of proud)` I just quitted my job, I’am broke too.  
 `Lenny(astonished)` How come, you where making big money.  
-`Sally` I burned most of it, I was bored like hell working.
+`Sally` I burned most of it, I was bored like hell working.  
 `Sally` I am planing to open a restaurant.  
 
 ### Panel 8:
