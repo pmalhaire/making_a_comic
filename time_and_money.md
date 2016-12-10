@@ -10,8 +10,7 @@ Is there a mathematical scope for those who feel sad or useless.
 
 Lenny is broke and does not know how to handle it. 
 He cames across his old friend Sally. 
-Sally tells Lenny that she quitted her job to open a restaurant.
-Lenny asks Sally how she manages money with no income. 
+Sally tells Lenny that she divied the money she got left in twelve to open a restorant in one year.
 Inspired by Sally Lenny tries to solve his money problems with better accounting.  
 
 One week later Lenny realize that even with accounting his money problem is not solved. 
@@ -29,145 +28,86 @@ They agree to meet soon.
 
 ### Panel 2:
 
-*`Lenny` stops next to a donuts shop.*  
-`Lenny thinking` My wallet fells like that.
+*`Lenny` comes across his friend Sally in the street.*  
+`Sally` Hey Lenny, how have you been.  
+`Lenny` Well… not bad, what about you?
 
 ### Panel 3:
 
-*`Lenny` comes across his friend Sally in the street.*
-
-`Sally` Hey Lenny, how have you been.  
-`Lenny` Well… not bad, what about you?  
-`Sally` Awesome, I haven’t been that good in years.
+*`Lenny` looking down.*  
+`Sally` You seem worried what happened?    
+`Lenny` … I am just broke and I don’t know what to do.
 
 ### Panel 4:
 
-*`Lenny` smiles looking down.*
-
-`Sally` You seem worried what happened?    
-`Lenny` Nothing…
+*`Sally` joins her arms thinking of what to say, she is kind of moved by him.*
 
 ### Panel 5:
 
-*`Sally` moves her bag from one shoulder to the other.*
-
-`Sally` Come on, we’re not strangers.
-
-*`Lenny` moves his eyes from the floor and looks at Sally with fear in his eyes.*
-
-`Lenny` … I am just broke and I don’t know what to do.
+`Sally(kind of proud)` I just quitted my job, I’am broke too.  
+`Lenny(astonished)` How come?  
+`Sally` I divided what I got left in 12. I have one year to open a restaurant. 
+`Lenny` Wow, it's an amazing plan.  
+`Sally` Well I just got the name : « La bouche joyeuse ». The happy mouth in french. 
 
 ### Panel 6:
-
-*`Sally` joins her arms thinking of what to say, she is kind of moved by him.*
+ 
+`Lenny(laughing)` Sorry, but … it sound’s like porn.
+`Sally(disgusted)` … Really ?!  
+`Lenny(shameful)` Uh … The translation does.  
+`Sally` Anyway. It make sense for a French restaurant.
 
 ### Panel 7:
 
-`Sally(kind of proud)` I just quitted my job, I’am broke too.  
-`Lenny(astonished)` How come, you where making big money.  
-`Sally` I burned most of it, I was bored like hell working.  
-`Sally` I am planing to open a restaurant.  
-
-### Panel 8:
-
-`Lenny(curious)` And how do you manage with money ?  
-`Sally` I just divided what I got left in 12. I got one year to try.
-
-### Panel 9:
-
-`Lenny(surprised)` That’s nice ! Tell me.
-
-### Panel 10:
-
-`Sally` I just got the name : « La bouche joyeuse ». The happy mouth in french.  
-`Lenny(laughing)` Sorry, but … it sound’s like porn.
-
-### Panel 11:
-
-`Sally(disgusted)` … Really ?!  
-`Lenny(shameful)` Uh … The translation does.
-
-### Panel 12:
-
-`Sally(winks)` Anyway. It make sense for a French restaurant.
-
-### Panel 13:
-
-*`Lenny` steps back feeling the urge to go.*
-
+*`Lenny` steps back feeling the urge to go.*  
 `Lenny(shy)` Nice seeing you, good luck with your nice plan.  
 `Sally(sad)` Take care… call me someday.
 
-### Panel 14:
+### Panel 8:
 
 `Lenny thinking` Divide the money, that’s the thing. I’ll make it!
 
 *Second part*
 -----
 
-### Panel 15:
+### Panel 9:
 
 *One week later.*
-
 *`Lenny` walking in the street.(same as panel 1)*
-
-### Panel 16:
-
 `Lenny thinking` Still broke, and doing nothing but counting my money.
 
-### Panel 17:
+### Panel 10:
 
-*`Lenny` calling Sally. The phone rings…*
-
-### Panel 18:
-
+*`Lenny` calling Sally.*
 `Sally` Hi Lenny, how have you been ?  
 `Lenny` Not that good, I’d say.
 
-### Panel 19:
+### Panel 11:
 
 *silence*
 
-### Panel 20:
+### Panel 12:
 
-`Sally` Did you see your Friends lately ?  
-`Lenny` Not really I was busy.
+`Sally(cynical)` Did you take time to know what you want lately ?  
+`Lenny(desperate)` Not really, I was busy.  
+`Sally` Are you busy now ?  
+`Lenny` I can’t afford being busy. 
 
-### Panel 21:
-
-`Sally(cynical)` Are you busy now ?  
-`Lenny(desperate)` I can’t afford being busy.
-`Sally` So you have time to see your friends.  
-
-### Panel 22:
+### Panel 13:
 
 *silence*
 
-### Panel 23:
+### Panel 14:
 
-`Lenny(faking a good mood)` Was good to come across you the other day, it's nice what you are doing.  
-`Sally(happy)` Thank you. What would you like to do, if you were to change job ?
+`Sally(more playful)` Knowing what you want takes time.  
+`Lenny(more upset)` Well I have now two problems, no money, and I don’t know what I want.
 
-### Panel 24:
+### Panel 15:
 
-`Lenny(felling lost)` That’s a good question… I don’t know.
-
-### Panel 25:
-
-`Sally(playful)` You told me you're not busy so you have time ?  
-`Lenny(upset)` Yes since I can’t afford anything.
-
-### Panel 26:
-
-`Sally(more playful)` Knowing what to do is a question that takes time.  
-`Lenny(more upset)` Well I have now two problems, no money, and I don’t know what to do.
-
-### Panel 27:
-
-`Sally(proud of her)` No money gives you time. Knowing what you do needs time.  
+`Sally(proud of her)` No money gives you time to ask your self what you want.  
 `Lenny(angry)` I could have found it myself, but you’re wrong because time is money.
 
-### Panel 28:
+### Panel 16:
 
 `Sally(laughing)` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
 `Lenny(feeling a bit better)` You’re right, I’d be happy to meet you.
