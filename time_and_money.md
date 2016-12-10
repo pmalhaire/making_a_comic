@@ -14,7 +14,7 @@ Sally tells Lenny that she divied the money she got left in twelve to open a res
 Inspired by Sally Lenny tries to solve his money problems with better accounting.  
 
 One week later Lenny realize that even with accounting his money problem is not solved. 
-Lost and depressed Lenny calls Sally. 
+Lost and depressed he calls Sally. 
 While talking she makes him realize that money is not the problem.
 Lenny's problem is that he does not know what to do in his life.
 They agree to meet soon.
