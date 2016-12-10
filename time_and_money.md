@@ -99,8 +99,8 @@ They agree to meet soon.
 
 ### Panel 14:
 
-`Sally(more playful)` Knowing what you want takes time.  
-`Lenny(more upset)` Well I have now two problems, no money, and I don’t know what I want.
+`Sally(playful)` Knowing what you want takes time.  
+`Lenny(upset)` Well I have now two problems, no money, and I don’t know what I want.
 
 ### Panel 15:
 
