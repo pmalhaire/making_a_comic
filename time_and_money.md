@@ -3,7 +3,7 @@
 ## Idea : 
 
 The correct logical answer to a problem does not solve it all. Using logic always implies to reduce a problem scope. 
-Where many of our today problems are more about a feeling small, or useless in the big world machine. 
+Where many of our today problems are more about feeling small, or useless in the big world machine. 
 Is there a mathematical scope for those who feel sad or useless. 
 
 ## Synopsis :
