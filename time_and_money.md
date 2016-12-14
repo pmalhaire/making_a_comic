@@ -28,34 +28,32 @@ They agree to meet soon.
 
 ### Panel 2:
 
-*`Lenny` comes across his friend Sally in the street.*  
-`Sally` Hey Lenny, how have you been.  
-`Lenny` Well… not bad, what about you?
+*Lenny stops next to a donuts shop.*  
+`Lennyt thinking` My wallet fells like that.
 
 ### Panel 3:
 
-*`Lenny` looking down.*  
-`Sally` You seem worried what happened?    
-`Lenny` … I am just broke and I don’t know what to do.
+*Lenny comes across his friend Sally in the street.*
+`Sally` Hey Lenny, how have you been ?  
+`Lenny` Well… not bad, what about you ?
 
 ### Panel 4:
 
-*`Sally` joins her arms thinking of what to say, she is kind of moved by him.*
+`Sally(kind of proud)` I just quitted my job.  
+`Lenny(astonished)` How come?
 
 ### Panel 5:
 
-`Sally(kind of proud)` I just quitted my job, I’am broke too.  
-`Lenny(astonished)` How come?  
-`Sally` I divided what I got left in 12. I have one year to open a restaurant.  
-`Lenny` Wow, it's an amazing plan.  
-`Sally` Well I just got the name : « La bouche joyeuse ». The happy mouth in french. 
+`Sally` I divided what I got left in 12, I have one year to make my project.  
+`Lenny(curious)` Amazing plan what is it ?  
+`Sally` I want to open a restaurant : « La bouche joyeuse ». The happy mouth in french.
 
 ### Panel 6:
- 
+
 `Lenny(laughing)` Sorry, but … it sound’s like porn.  
 `Sally(disgusted)` … Really ?!  
-`Lenny(shameful)` Uh … The translation does.  
-`Sally` Anyway. It make sense for a French restaurant.
+`Lenny` Uh … The translation does.  
+`Sally` Anyway. It makes sense for a French restaurant.
 
 ### Panel 7:
 
