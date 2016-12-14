@@ -83,7 +83,7 @@ They agree to meet soon.
 ### Panel 11:
 
 `Sally(upset)` I am broke too ! focusing on my project makes it easier to handle.  
-`Lenny(desperate)` It always has be easy for you.
+`Lenny(desperate)` It has always been easy for you.
 
 ### Panel 12:
 
