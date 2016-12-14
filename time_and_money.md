@@ -44,7 +44,7 @@ They agree to meet soon.
 
 ### Panel 5:
 
-`Sally` I divided what I got left in 12, I have one year to make my project.  
+`Sally(serious)` I divided what I got left in 12, I have one year to make my project.  
 `Lenny(curious)` Amazing plan what is it ?  
 `Sally` I want to open a restaurant : « La bouche joyeuse ». The happy mouth in french.
 
