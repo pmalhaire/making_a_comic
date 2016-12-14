@@ -33,7 +33,7 @@ They agree to meet soon.
 
 ### Panel 3:
 
-*Lenny comes across his friend Sally in the street.*
+*Lenny comes across his friend Sally in the street.*  
 `Sally` Hey Lenny, how have you been ?  
 `Lenny` Well… not bad, what about you ?
 
@@ -76,24 +76,25 @@ They agree to meet soon.
 
 ### Panel 10:
 
-*`Lenny` calling Sally.*
-`Sally` Hi Lenny, how have you been ?  
-`Lenny` Not that good, I’d say.
+*`Lenny` calling Sally.*  
+`Sally(surprised)` Hi Lenny, how have you been ?  
+`Lenny(shy)` Not that good, I’am broke and I don't know how to handle it.
 
 ### Panel 11:
 
-*silence*
+`Sally(upset)` I am broke too ! focusing on my project makes it easier to handle.  
+`Lenny(desperate)` It always has be easy for you.
 
 ### Panel 12:
+
+*silence*
+
+### Panel 13:
 
 `Sally(cynical)` Did you take time to know what you want lately ?  
 `Lenny(desperate)` Not really, I was busy.  
 `Sally` Are you busy now ?  
 `Lenny` I can’t afford being busy. 
-
-### Panel 13:
-
-*silence*
 
 ### Panel 14:
 
