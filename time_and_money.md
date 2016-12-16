@@ -29,7 +29,7 @@ They agree to meet soon.
 ### Panel 2:
 
 *Lenny stops next to a donuts shop.*  
-`Lennyt thinking` My wallet fells like that hole.
+`Lenny thinking` My wallet fells like that hole.
 
 ### Panel 3:
 
