@@ -24,46 +24,91 @@ They agree to meet soon.
 
 ### Panel 1:
 
-*`Lenny` walking in the street.*
+#### Image description 
+
+Lenny, a middle age man tormented by worries, is walking in the street.
+
+#### Dialogs
+
+*none*
 
 ### Panel 2:
 
-*Lenny stops next to a donuts shop.*  
-`Lenny thinking` My wallet fells like that hole.
+#### Image description 
+
+Lenny stops next to a donuts shop.  
+
+#### Dialogs
+
+`Lenny` *thinking* My wallet fells like that hole.
 
 ### Panel 3:
 
-*Lenny comes across his friend Sally in the street.*  
-`Sally` Hey Lenny, how have you been ?  
-`Lenny` Well… not bad, what about you ?
+#### Image description 
+
+Lenny comes across his friend Sally in the street.  
+Sally used to be a business excutive and is now changing life.  
+She's a middle age woman and knows Lenny for years.
 
 ### Panel 4:
 
-`Sally(kind of proud)` I just quitted my job.  
-`Lenny(astonished)` How come?
+#### Image description 
+
+Sally *kind of proud* and Lenny *astonished* face each other in the street.
+
+#### Dialogs
+
+`Sally` Hey Lenny, how have you been ?  
+`Lenny` Well… not bad, what about you ?  
+`Sally` I just quitted my job.  
+`Lenny` How come?
 
 ### Panel 5:
 
-`Sally(serious)` I divided what I got left in 12, I have one year to make my project.  
-`Lenny(curious)` Amazing plan what is it ?  
+#### Image description 
+
+Sally *serious* and Lenny *curious* face each other in the street.
+
+#### Dialogs
+
+`Sally` I divided what I got left in 12, I have one year to make my project.  
+`Lenny` Amazing plan what is it ?  
 `Sally` I want to open a restaurant : « La bouche joyeuse ». The happy mouth in french.
 
 ### Panel 6:
 
-`Lenny(laughing)` Sorry, but … it sound’s like porn.  
-`Sally(disgusted)` … Really ?!  
+#### Image description 
+
+Sally *disgusted* and Lenny *laughing* face each other in the street.
+
+#### Dialogs
+
+`Lenny` Sorry, but … it sound’s like porn.  
+`Sally` … Really ?!  
 `Lenny` Uh … The translation does.  
 `Sally` Anyway. It makes sense for a French restaurant.
 
 ### Panel 7:
 
-*`Lenny` steps back feeling the urge to go.*  
-`Lenny(shy)` Nice seeing you, good luck with your nice plan.  
-`Sally(sad)` Take care… call me someday.
+#### Image description 
+
+Lenny *shy* steps back feeling the urge to go.  
+Sally *sad* stays statical.
+
+#### Dialogs
+
+`Lenny` Nice seeing you, good luck with your nice plan.  
+`Sally` Take care… call me someday.
 
 ### Panel 8:
 
-`Lenny thinking` Divide the money, that’s the thing. I’ll make it!
+#### Image description 
+
+Lenny is walking in the street. Sally is far in the background.
+
+#### Dialogs
+
+`Lenny` *thinking* Divide the money, that’s the thing. I’ll make it!
 
 *Second part*
 -----
