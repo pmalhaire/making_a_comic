@@ -115,26 +115,52 @@ Lenny is walking in the street. Sally is far in the background.
 
 ### Panel 9:
 
-*One week later.*  
-*`Lenny` walking in the street.(same as panel 1)*  
-`Lenny thinking` Still broke, and doing nothing but counting my money.
+#### Image description 
+
+Lenny is walking in the street. Same as panel 1.
+
+#### Dialogs
+
+`Caption` One week later.
+
+`Lenny` *thinking* Still broke, and doing nothing but counting my money.
 
 ### Panel 10:
 
-*`Lenny` calling Sally.*  
-`Sally(surprised)` Hi Lenny, how have you been ?  
-`Lenny(shy)` Not that good, I’am broke and I don't know how to handle it.
+#### Image description 
+
+The panel is splited in 2 by it's dygonal.
+Lenny *shy* calling Sally *surprised*.  
+
+#### Dialogs
+
+`Sally` Hi Lenny, how have you been ?  
+`Lenny` Not that good, I’am broke and I don't know how to handle it.
 
 ### Panel 11:
+
+#### Image description 
+
+Lenny *desperate* calling Sally.  
+
+#### Dialogs
 
 `Sally(upset)` I am broke too ! focusing on my project makes it easier to handle.  
 `Lenny(desperate)` It has always been easy for you.
 
 ### Panel 12:
 
-*silence*
+#### Image description 
+
+#### Dialogs
+
+*none*
 
 ### Panel 13:
+
+#### Image description 
+
+#### Dialogs
 
 `Sally(cynical)` Did you take time to know what you want lately ?  
 `Lenny(desperate)` Not really, I was busy.  
@@ -143,15 +169,27 @@ Lenny is walking in the street. Sally is far in the background.
 
 ### Panel 14:
 
+#### Image description 
+
+#### Dialogs
+
 `Sally(playful)` Knowing what you want takes time.  
 `Lenny(upset)` Well I have now two problems, no money, and I don’t know what I want.
 
 ### Panel 15:
 
+#### Image description 
+
+#### Dialogs
+
 `Sally(proud of her)` No money gives you time to ask your self what you want.  
 `Lenny(angry)` I could have found it myself, but you’re wrong because time is money.
 
 ### Panel 16:
+
+#### Image description 
+
+#### Dialogs
 
 `Sally(laughing)` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
 `Lenny(feeling a bit better)` You’re right, I’d be happy to meet you.
