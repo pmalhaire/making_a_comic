@@ -129,7 +129,7 @@ Lenny is walking in the street. Same as panel 1.
 
 #### Image description 
 
-The panel is splited in 2 by it's dygonal.
+The panel is splited in 2 by it's dygonal.  
 Lenny *shy* calling Sally *surprised*.  
 
 #### Dialogs
@@ -141,16 +141,19 @@ Lenny *shy* calling Sally *surprised*.
 
 #### Image description 
 
-Lenny *desperate* calling Sally.  
+The panel is splited in 2 by it's dygonal.  
+Lenny *desperate* is on the phone with Sally *upset*.  
 
 #### Dialogs
 
-`Sally(upset)` I am broke too ! focusing on my project makes it easier to handle.  
-`Lenny(desperate)` It has always been easy for you.
+`Sally` I am broke too ! focusing on my project makes it easier to handle.  
+`Lenny` It has always been easy for you.
 
 ### Panel 12:
 
 #### Image description 
+
+Sally *indifferent* is looking up. 
 
 #### Dialogs
 
@@ -160,10 +163,13 @@ Lenny *desperate* calling Sally.
 
 #### Image description 
 
+The panel is splited in 2 by it's dygonal.  
+Lenny *desperate* is on the phone with Sally *cynical*.
+
 #### Dialogs
 
-`Sally(cynical)` Did you take time to know what you want lately ?  
-`Lenny(desperate)` Not really, I was busy.  
+`Sally` Did you take time to know what you want lately ?  
+`Lenny` Not really, I was busy.  
 `Sally` Are you busy now ?  
 `Lenny` I can’t afford being busy. 
 
@@ -171,27 +177,36 @@ Lenny *desperate* calling Sally.
 
 #### Image description 
 
+The panel is splited in 2 by it's dygonal.  
+Lenny *upset* is on the phone with Sally *playful*.
+
 #### Dialogs
 
-`Sally(playful)` Knowing what you want takes time.  
-`Lenny(upset)` Well I have now two problems, no money, and I don’t know what I want.
+`Sally` Knowing what you want takes time.  
+`Lenny` Well I have now two problems, no money, and I don’t know what I want.
 
 ### Panel 15:
 
 #### Image description 
 
+The panel is splited in 2 by it's dygonal.  
+Lenny *angry* is on the phone with Sally *proud of her*.
+
 #### Dialogs
 
-`Sally(proud of her)` No money gives you time to ask your self what you want.  
-`Lenny(angry)` I could have found it myself, but you’re wrong because time is money.
+`Sally` No money gives you time to ask your self what you want.  
+`Lenny` I could have found it myself, but you’re wrong because time is money.
 
 ### Panel 16:
 
 #### Image description 
 
+The panel is splited in 2 by it's dygonal.  
+Lenny *feeling a bit better* is on the phone with Sally *laughing*.
+
 #### Dialogs
 
-`Sally(laughing)` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
-`Lenny(feeling a bit better)` You’re right, I’d be happy to meet you.
+`Sally` Let’s go for a walk, luckily this time we’ll find a lonely piece of money.  
+`Lenny` You’re right, I’d be happy to meet you.
 
 
